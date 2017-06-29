@@ -1,0 +1,7 @@
+#ifndef _Q_SENSOR_TYPE_H_
+#define _Q_SENSOR_TYPE_H_
+
+#define Q_SENSOR_TYPE_GYROSCOPE 1
+#define Q_SENSOR_TYPE_ACCELERATION 2
+
+#endif
